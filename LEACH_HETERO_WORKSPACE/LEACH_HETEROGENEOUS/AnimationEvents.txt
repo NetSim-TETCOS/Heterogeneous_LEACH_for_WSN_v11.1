@@ -1,0 +1,13 @@
+Start program >2019/04/23 17:37:05
+Data Path > C:\Users\TETCOS-PC\AppData\Roaming\NetSim\pro11.1.11\GUIConfigurations\
+Start Plugin >2019/04/23 17:37:06
+Start xml Reading loading >2019/04/23 17:37:06
+Xml reading done >2019/04/23 17:37:06
+Stop Plugin >2019/04/23 17:37:06
+start  animation view >2019/04/23 17:37:07
+End animation view >2019/04/23 17:37:07
+Start Table view >2019/04/23 17:37:07
+End Table view >2019/04/23 17:37:07
+thread check  >2019/04/23 17:37:08
+END loading >2019/04/23 17:37:08
+Can write file

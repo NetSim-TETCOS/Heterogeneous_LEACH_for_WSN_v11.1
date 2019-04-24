@@ -1,0 +1,52 @@
+Gathering license information
+Server = .	Roam Enable(1)/Disable(0)=0
+Product name = netsim
+Version type = std
+Lock type = rlm_hw
+Version = 11.0
+Check license for...
+	netsim_std_1 or netsim_std_all or netsim_std or netsim_std_inw
+	netsim_std_2 or netsim_std_all or netsim_std or netsim_std_legacy
+	netsim_std_3 or netsim_std_all or netsim_std or netsim_std_advrs
+	netsim_std_4 or netsim_std_all or netsim_std or netsim_std_advw
+	netsim_std_5 or netsim_std_all or netsim_std or netsim_std_sdn
+	netsim_std_6 or netsim_std_all or netsim_std or netsim_std_iot
+	netsim_std_7 or netsim_std_all or netsim_std or netsim_std_crn
+	netsim_std_8 or netsim_std_all or netsim_std or netsim_std_lte
+	netsim_std_9 or netsim_std_all or netsim_std or netsim_std_vanet
+	netsim_emulator or NA or NA or netsim_std_NA
+	netsim_std_102 or netsim_std_all or netsim_std or netsim_std_NA
+Waiting for license Manager to complete..
+called for 0, 9884
+called for 1, 3008
+called for 2, 8484
+called for 3, 1956
+called for 4, 7276
+called for 5, 7136
+called for 6, 972
+called for 7, 7880
+called for 8, 7452
+called for 9, 6148
+called for 11, 552
+NetSim Component ID = 3, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 4, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 2, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 5, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 7, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 6, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 9, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 8, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 11, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 0, Unable to get license.
+Error Message - No license for product (-1)
+NetSim Component ID = 1, Unable to get license.
+Error Message - No license for product (-1)

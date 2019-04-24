@@ -1,0 +1,234 @@
+Entering Network Stack
+
+In the initialization function
+Configuring 1 device..
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libMobility.dll>>fn_NetSim_Mobility_Init
+fn_NetSim_Mobility_Run
+fn_NetSim_Mobility_Trace
+fn_NetSim_Mobility_FreePacket
+fn_NetSim_Mobility_CopyPacket
+fn_NetSim_Mobility_Metrics
+fn_NetSim_Mobility_Finish
+fn_NetSim_Mobility_Configure
+fn_NetSim_Mobility_ConfigPacketTrace
+fn_NetSim_Mobility_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libIP.dll>>fn_NetSim_IP_Init
+fn_NetSim_IP_Run
+fn_NetSim_IP_Trace
+fn_NetSim_IP_FreePacket
+fn_NetSim_IP_CopyPacket
+fn_NetSim_IP_Metrics
+fn_NetSim_IP_Finish
+fn_NetSim_IP_Configure
+fn_NetSim_IP_ConfigPacketTrace
+fn_NetSim_IP_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libARP.dll>>fn_NetSim_ARP_Init
+fn_NetSim_ARP_Run
+fn_NetSim_ARP_Trace
+fn_NetSim_ARP_FreePacket
+fn_NetSim_ARP_CopyPacket
+fn_NetSim_ARP_Metrics
+fn_NetSim_ARP_Finish
+fn_NetSim_ARP_Configure
+fn_NetSim_ARP_ConfigPacketTrace
+fn_NetSim_ARP_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libZigbee.dll>>fn_NetSim_Zigbee_Init
+fn_NetSim_Zigbee_Run
+fn_NetSim_Zigbee_Trace
+fn_NetSim_Zigbee_FreePacket
+fn_NetSim_Zigbee_CopyPacket
+fn_NetSim_Zigbee_Metrics
+fn_NetSim_Zigbee_Finish
+fn_NetSim_Zigbee_Configure
+fn_NetSim_Zigbee_ConfigPacketTrace
+fn_NetSim_Zigbee_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libTCP.dll>>fn_NetSim_TCP_Init
+fn_NetSim_TCP_Run
+fn_NetSim_TCP_Trace
+fn_NetSim_TCP_FreePacket
+fn_NetSim_TCP_CopyPacket
+fn_NetSim_TCP_Metrics
+fn_NetSim_TCP_Finish
+fn_NetSim_TCP_Configure
+fn_NetSim_TCP_ConfigPacketTrace
+fn_NetSim_TCP_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libUDP.dll>>fn_NetSim_UDP_Init
+fn_NetSim_UDP_Run
+fn_NetSim_UDP_Trace
+fn_NetSim_UDP_FreePacket
+fn_NetSim_UDP_CopyPacket
+fn_NetSim_UDP_Metrics
+fn_NetSim_UDP_Finish
+fn_NetSim_UDP_Configure
+fn_NetSim_UDP_ConfigPacketTrace
+fn_NetSim_UDP_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libDSR.dll>>fn_NetSim_DSR_Init
+fn_NetSim_DSR_Run
+fn_NetSim_DSR_Trace
+fn_NetSim_DSR_FreePacket
+fn_NetSim_DSR_CopyPacket
+fn_NetSim_DSR_Metrics
+fn_NetSim_DSR_Finish
+fn_NetSim_DSR_Configure
+fn_NetSim_DSR_ConfigPacketTrace
+fn_NetSim_DSR_WritePacketTrace
+Configuring 2 device..
+Configuring 3 device..
+Configuring 4 device..
+Configuring 5 device..
+Configuring 6 device..
+Configuring 7 device..
+Configuring 8 device..
+Configuring 9 device..
+Configuring 10 device..
+Configuring 11 device..
+Configuring 12 device..
+Configuring 13 device..
+Configuring 14 device..
+Configuring 15 device..
+Configuring 16 device..
+Configuring 17 device..
+Configuring 18 device..
+Configuring 19 device..
+Configuring 20 device..
+Configuring 21 device..
+Configuring 22 device..
+Configuring 23 device..
+Configuring 24 device..
+Configuring 25 device..
+Configuring 26 device..
+Configuring 27 device..
+Configuring 28 device..
+Configuring 29 device..
+Configuring 30 device..
+Configuring 31 device..
+Configuring 32 device..
+Configuring 33 device..
+Configuring 34 device..
+Configuring 35 device..
+Configuring 36 device..
+Configuring 37 device..
+Configuring 38 device..
+Configuring 39 device..
+Configuring 40 device..
+Configuring 41 device..
+Configuring 42 device..
+Configuring 43 device..
+Configuring 44 device..
+Configuring 45 device..
+Configuring 46 device..
+Configuring 47 device..
+Configuring 48 device..
+Configuring 49 device..
+Configuring 50 device..
+Configuring 51 device..
+Configuring 52 device..
+Configuring 53 device..
+Configuring 54 device..
+Configuring 55 device..
+Configuring 56 device..
+Configuring 57 device..
+Configuring 58 device..
+Configuring 59 device..
+Configuring 60 device..
+Configuring 61 device..
+Configuring 62 device..
+Configuring 63 device..
+Configuring 64 device..
+Configuring 65 device..
+Configuring 66 device..
+Configuring 67 device..
+Configuring 68 device..
+Configuring 69 device..
+Configuring 70 device..
+Configuring 71 device..
+Configuring 72 device..
+Configuring 73 device..
+Configuring 74 device..
+Configuring 75 device..
+Configuring 76 device..
+Configuring 77 device..
+Configuring 78 device..
+Configuring 79 device..
+Configuring 80 device..
+Configuring 81 device..
+Configuring 82 device..
+Configuring 83 device..
+Configuring 84 device..
+Configuring 85 device..
+Configuring 86 device..
+Configuring 87 device..
+Configuring 88 device..
+Configuring 89 device..
+Configuring 90 device..
+Configuring 91 device..
+Configuring 92 device..
+Configuring 93 device..
+Configuring 94 device..
+Configuring 95 device..
+Configuring 96 device..
+Configuring 97 device..
+Configuring 98 device..
+Configuring 99 device..
+Configuring 100 device..
+Configuring 101 device..
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\libApplication.dll>>fn_NetSim_Application_Init
+fn_NetSim_Application_Run
+fn_NetSim_Application_Trace
+fn_NetSim_Application_FreePacket
+fn_NetSim_Application_CopyPacket
+fn_NetSim_Application_Metrics
+fn_NetSim_Application_Finish
+fn_NetSim_Application_Configure
+fn_NetSim_Application_ConfigPacketTrace
+fn_NetSim_Application_WritePacketTrace
+Loading binaries
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\SupportFunction.dll>>fn_NetSim_Packet_AddPacketToBuffer
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\SupportFunction.dll>>fn_NetSim_GetPacketFromBuffer
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x64\SupportFunction.dll>>fn_NetSim_GetBufferStatus
+Calling TCP init..
+TCP init done.
+Calling IP init..
+[31m[1m
+
+******
+In 413 line of IP_Routing.c file following error occurs
+Unable to open routing file C:\Users\TETCOS~1\AppData\Local\Temp\NetSim/\StaticIPConfigure23.txt
+*****
+[0m[31m[1m
+
+******
+In 413 line of IP_Routing.c file following error occurs
+Unable to open routing file C:\Users\TETCOS~1\AppData\Local\Temp\NetSim/\StaticIPConfigure25.txt
+*****
+[0m[31m[1m
+
+******
+In 413 line of IP_Routing.c file following error occurs
+Unable to open routing file C:\Users\TETCOS~1\AppData\Local\Temp\NetSim/\StaticIPConfigure47.txt
+*****
+[0m[31m[1m
+
+******
+In 413 line of IP_Routing.c file following error occurs
+Unable to open routing file C:\Users\TETCOS~1\AppData\Local\Temp\NetSim/\StaticIPConfigure50.txt
+*****
+[0m[31m[1m
+
+******
+In 413 line of IP_Routing.c file following error occurs
+Unable to open routing file C:\Users\TETCOS~1\AppData\Local\Temp\NetSim/\StaticIPConfigure101.txt
+*****
+[0mIP init done.
+Calling UDP init..
+UDP init done.
+Calling DSR init..
+DSR init done.
+Calling Zigbee init..
+Zigbee init done.
+Calling ARP init..
+ARP init done.
+Calling Mobility init..
+Mobility init done.
+Calling Application init..
+Application init done.

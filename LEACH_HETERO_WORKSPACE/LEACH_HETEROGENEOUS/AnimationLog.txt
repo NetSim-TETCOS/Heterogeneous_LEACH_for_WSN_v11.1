@@ -1,0 +1,2 @@
+Data Path > C:\Users\TETCOS-PC\AppData\Roaming\NetSim\pro11.1.11\GUIConfigurations\
+Can write file

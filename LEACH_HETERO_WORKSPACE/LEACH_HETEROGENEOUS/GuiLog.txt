@@ -1,0 +1,37 @@
+Metrics Window ends
+[Fatal Error] Metrics.xml:11115:15: XML document structures must start and end within the same entity.
+org.xml.sax.SAXParseException; systemId: file:/C:/Users/TETCOS~1/AppData/Local/Temp/NetSim/Metrics.xml; lineNumber: 11115; columnNumber: 15; XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:257)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+	at com.tetcos.netsim.simulation.metrics.window.MetricsXMLFileRead.<init>(MetricsXMLFileRead.java:60)
+	at com.tetcos.netsim.simulation.metrics.window.MetricsXMLFileRead.getInstance(MetricsXMLFileRead.java:390)
+	at com.tetcos.netsim.simulation.metrics.window.MetricsWindow.start(MetricsWindow.java:146)
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$161(LauncherImpl.java:863)
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$174(PlatformImpl.java:326)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$172(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$173(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Metrics XML Reading Start:-----
+Exception in Application start method
+java.lang.RuntimeException: Exception in Application start method
+	at com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:917)
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication$154(LauncherImpl.java:182)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+	at com.tetcos.netsim.simulation.metrics.window.MetricsXMLFileRead.<init>(MetricsXMLFileRead.java:70)
+	at com.tetcos.netsim.simulation.metrics.window.MetricsXMLFileRead.getInstance(MetricsXMLFileRead.java:390)
+	at com.tetcos.netsim.simulation.metrics.window.MetricsWindow.start(MetricsWindow.java:146)
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$161(LauncherImpl.java:863)
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$174(PlatformImpl.java:326)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$172(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$173(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	... 1 more

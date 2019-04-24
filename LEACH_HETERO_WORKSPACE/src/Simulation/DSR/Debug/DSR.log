@@ -1,0 +1,44 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(397,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  CheckRouteFound.c
+  DSR.c
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\DSR.c(174): warning C4013: 'fn_NetSim_LEACH_HETERO_run' undefined; assuming extern returning int
+  MaintBuffer.c
+  MATLAB_Interface.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\stdbool.h(16): warning C4005: 'false': macro redefinition
+  C:\Program Files\MATLAB\R2016a\extern\include\tmwtypes.h(761): note: see previous definition of 'false'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\stdbool.h(17): warning C4005: 'true': macro redefinition
+  C:\Program Files\MATLAB\R2016a\extern\include\tmwtypes.h(764): note: see previous definition of 'true'
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\Include\main.h(212): warning C4005: 'printf': macro redefinition
+  C:\Program Files\MATLAB\R2016a\extern\include\mex.h(190): note: see previous definition of 'printf'
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(86): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(122): warning C4477: 'sprintf' : format string '%f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(122): warning C4477: 'sprintf' : format string '%f' requires an argument of type 'double', but variadic argument 3 has type 'int'
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(122): warning C4473: 'sprintf' : not enough arguments passed for format string
+  C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(122): note: placeholders and their parameters expect 6 variadic arguments, but 5 were provided
+  C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(122): note: the missing variadic argument 6 is required by format string '%d'
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(135): warning C4013: 'fn_NetSim_LEACH_HETERO_form_cluster' undefined; assuming extern returning int
+  Network_Layer_Ack.c
+  PacketProcessing.c
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\PacketProcessing.c(36): warning C4013: 'fn_NetSim_LEACH_HETERO_GetNextHop' undefined; assuming extern returning int
+  LEACH_HETEROGENEOUS.c
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(63): warning C4013: 'fn_NetSim_LEACH_HETERO_CheckIfCH' undefined; assuming extern returning int
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(75): warning C4013: 'fn_NetSim_LEACH_HETERO_run' undefined; assuming extern returning int
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(48): warning C4101: 'i': unreferenced local variable
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(47): warning C4101: 'nInterface': unreferenced local variable
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(49): warning C4101: 'ClusterId': unreferenced local variable
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(101): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(135): warning C4018: '<': signed/unsigned mismatch
+  RouteCache.c
+  RouteError.c
+  RouteReply.c
+  RouteRequest.c
+  SendBuffer.c
+  SourceRoute.c
+C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\SourceRoute.c(64): warning C4013: 'fn_NetSim_LEACH_HETERO_CheckDestination' undefined; assuming extern returning int
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1226,5): warning MSB8012: TargetPath(C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\..\..\..\bin\bin_x86\DSR.dll) does not match the Linker's OutputFile property value (C:\Users\TETCOS-PC\Desktop\LEACH_HETERO_WORKSPACE\bin\bin_x86\libDSR.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1228,5): warning MSB8012: TargetName(DSR) does not match the Linker's OutputFile property value (libDSR). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'libeng.lib'
